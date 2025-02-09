@@ -1,7 +1,8 @@
 ## Hey there!
 
-I am a postdoctoral researcher currently working at the I. Institute of
-Theoretical Physics, University of Hamburg, Germany.
+I am a postdoctoral researcher currently working at the [I. Institute of
+Theoretical Physics, University of Hamburg, Germany](
+https://www.physik.uni-hamburg.de/en/th1/ueber-das-institut.html).
 
 I like to design and implement novel algorithms (including massively parallel
 algorithms) for numerical simulation of condensed matter systems, and of quantum
