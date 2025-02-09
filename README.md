@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey there!
 
-<!--
-**krivenko/krivenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a postdoctoral researcher currently working at the I. Institute of
+Theoretical Physics, University of Hamburg, Germany.
 
-Here are some ideas to get you started:
+I like to design and implement novel algorithms (including massively parallel
+algorithms) for numerical simulation of condensed matter systems, and of quantum
+systems in general.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My programming languages of choice are [C++](https://isocpp.org/),
+[Python](https://www.python.org/) and [Julia](https://julialang.org/).
+Some of the other technologies I find useful in my work are
+[Wolfram Mathematica](https://www.wolfram.com/mathematica/),
+UNIX shell scripting, [Docker](https://www.docker.com/),
+[Apptainer/Singularity](https://apptainer.org/), [CMake](https://cmake.org/)
+and LaTeX.
