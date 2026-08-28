@@ -9,7 +9,8 @@ algorithms) for numerical simulation of condensed matter systems, and of quantum
 systems in general.
 
 My programming languages of choice are [C++](https://isocpp.org/),
-[Python](https://www.python.org/) and [Julia](https://julialang.org/).
+[Python](https://www.python.org/), [Julia](https://julialang.org/) and
+[Rust](https://rust-lang.org/).
 Some of the other technologies I find useful in my work are
 [Wolfram Mathematica](https://www.wolfram.com/mathematica/),
 UNIX shell scripting, [Docker](https://www.docker.com/),
