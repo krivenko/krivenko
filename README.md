@@ -28,6 +28,7 @@ and LaTeX.
   - [TRIQS/SOM](https://github.com/krivenko/som): Stochastic Optimization Method for Analytic Continuation
   - [pomerol2triqs](https://github.com/krivenko/pomerol2triqs): TRIQS wrapper around the pomerol exact diagonalization library
   - [edipack2triqs](https://github.com/krivenko/edipack2triqs): TRIQS wrapper around the [EDIpack](https://github.com/EDIpack/EDIpack) exact diagonalization package
+  - [triqs-realevol](https://github.com/krivenko/triqs-realevol): A real time quantum evolution solver based on TRIQS
 * [ezARPACK](https://github.com/krivenko/ezARPACK): A C++ [ARPACK-NG](https://github.com/opencollab/arpack-ng) wrapper compatible with multiple matrix libraries
 * [ALPSCore](https://github.com/ALPSCore/ALPSCore): Algorithms and Libraries for Physics Simulations *(contributor)*
 * Julia projects
